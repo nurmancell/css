@@ -247,6 +247,11 @@ h6{font-size:0.75em;margin:2.33em 0;}
 .rapibgtcoeg {width:100%;margin:0 0;padding:0 0;background-color:rgba(0,0,0,0.6);}
 @media (min-width: 768px) and (max-width: 979px) {.mainWrap {width: 768px;}
 @media (max-width: 767px) {.mainWrap {width: auto;padding: 50px 20px;}
+.menu li {display: block;margin: 0;}.menu li a {background: #fff;color: #797979;}
+.menu li a:hover,.menu li:hover&gt;a {background: #9ca3da;color: #fff;text-decoration:none;}
+.menu ul {visibility: hidden;opacity: 0;top: 0;left: 0;width: 100%;transform: initial;}
+.menu li:hover&gt;ul {visibility: visible;opacity: 1;position: relative;transform: initial;}
+.menu ul ul {left: 0;transform: initial;}.menu li&gt;ul ul:hover {transform: initial;}}
 @media (max-width: 480px) {}
 @media (max-width: 320px) {}
 .search-block {width: 330px;margin-bottom: 30px;margin-top: 20px;}
