@@ -264,6 +264,7 @@ nav {height: 50px;width: 1120px;margin: 0 auto;background-color: #F0F0F0;border:
 .menu li a {font-size: 12px;}a.homer {background: #374147;}}
 @media (max-width: 767px) {.mainWrap {width: auto;padding: 50px 20px;}
 .menu {display: none;}
+nav {margin: 0;background: none;}
 .menu li {display: block;margin: 0;}.menu li a {background: #fff;color: #797979;}
 .menu li a:hover,.menu li:hover&gt;a {background: #9ca3da;color: #fff;text-decoration:none;}
 .menu ul {visibility: hidden;opacity: 0;top: 0;left: 0;width: 100%;transform: initial;}
