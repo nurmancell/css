@@ -257,6 +257,8 @@ nav {height: 50px;width: 1120px;margin: 0 auto;background-color: #F0F0F0;border:
 .menu li:hover&gt;ul {visibility: visible;opacity: 1;transform: translate(0,0);}
 .menu ul ul {left: 149px;top: 0px;visibility: hidden;opacity: 0;transform: translate(0px,0px);transition: all 0.45s ease-out;}
 .menu li&gt;ul ul:hover {visibility: visible;opacity: 1;transform: translate(0,0);}
+.responsive-menu {display: none;width: 100%;padding: 20px 15px;background: #374147;color: #fff;text-transform: uppercase;font-weight: 600;}
+.responsive-menu:hover {background: #374147;color: #fff;text-decoration: none;}
 .menu ul li.current-menu-item a {color: #FFF;background:#50505;}
 .menu ul li.current-menu-item {background: #505050;color: #FFF
 @media (min-width: 768px) and (max-width: 979px) {.mainWrap {width: 768px;}
