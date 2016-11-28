@@ -246,7 +246,10 @@ h6{font-size:0.75em;margin:2.33em 0;}
 .post-footer, .post-inf{color: #dfe6f5;line-height: 19px;margin: 4px 0px;font-size: 11.5px;float: left;font-family: Arial;}
 .rapibgtcoeg {width:100%;margin:0 0;padding:0 0;background-color:rgba(0,0,0,0.6);}
 @media (min-width: 768px) and (max-width: 979px) {.mainWrap {width: 768px;}
+.menu ul {top: 37px;}
+.menu li a {font-size: 12px;}a.homer {background: #374147;}}
 @media (max-width: 767px) {.mainWrap {width: auto;padding: 50px 20px;}
+.menu {display: none;}
 .menu li {display: block;margin: 0;}.menu li a {background: #fff;color: #797979;}
 .menu li a:hover,.menu li:hover&gt;a {background: #9ca3da;color: #fff;text-decoration:none;}
 .menu ul {visibility: hidden;opacity: 0;top: 0;left: 0;width: 100%;transform: initial;}
