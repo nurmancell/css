@@ -204,8 +204,8 @@ li.comment .blog-author:after {border-color: #336CDB !important;}
 body {background:#1B1B1B;background-image:url(//3.bp.blogspot.com/-HP3Z9-3E6FI/WEAshRjpMmI/AAAAAAAAADw/XRl5ljmQ84AKWUj_R6lholLCIciXCiLCQCLcB/s1600/background.jpg);background-position:top center;background-size:cover;background-attachment:fixed;background-repeat:no-repeat;min-width:1120px;margin:0 auto}
 #header-wrap {overflow:hidden;padding:10px 0;background:#0a0a0a}
 a:focus {outline:thin dotted;}
-a:link {transition:color 0.4s;outline:none;text-decoration:none;}
-a:link:hover {}
+a:link {color:#dfe6f5;transition:color 0.4s;outline:none;text-decoration:none;}
+a:link:hover {color:#dfe6f5}
 a:hover {text-decoration:underline;outline:none;}
 a:visited {color:#dfe6f5;text-decoration:none;outline:none;}
 ::selection{background:rgba(0, 0, 0, 0.1);color:#dfe6f5;}
