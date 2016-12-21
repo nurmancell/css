@@ -421,7 +421,7 @@ height: auto;
   left: 1px;
   width: 150px;
   height: 100px;
-  background: url(http://4.bp.blogspot.com/-Bo4ejrmgZAY/WE85caqT7zI/AAAAAAAAANI/OtWZY_8TxUQWMOpc_lJOZRXvPWLNP8VNgCLcB/s1600/video-thumb-border.png);
+  background: url('http://4.bp.blogspot.com/-Bo4ejrmgZAY/WE85caqT7zI/AAAAAAAAANI/OtWZY_8TxUQWMOpc_lJOZRXvPWLNP8VNgCLcB/s1600/video-thumb-border.png');
   z-index: 100;
 }
 .anipost .thumb .video-Subbed {
@@ -456,7 +456,7 @@ opacity: .70;
   left: 1px;
   width: 150px;
   height: 100px;
-  background: url(http://1.bp.blogspot.com/-LYE8PzwB8y8/WE85rNoADsI/AAAAAAAAANM/1cXrjOtYCZEiVR0UpqJaeqxjyznkPTxmACLcB/s1600/play-hover.png);
+  background:url(http://1.bp.blogspot.com/-LYE8PzwB8y8/WE85rNoADsI/AAAAAAAAANM/1cXrjOtYCZEiVR0UpqJaeqxjyznkPTxmACLcB/s1600/play-hover.png)rgba(0, 0, 0, 0.3);
   z-index: 200;
   display: none;
 }
