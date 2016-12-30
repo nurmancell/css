@@ -456,7 +456,7 @@ opacity: .70;
   left: 1px;
   width: 150px;
   height: 100px;
-  background:url('http://1.bp.blogspot.com/-LYE8PzwB8y8/WE85rNoADsI/AAAAAAAAANM/1cXrjOtYCZEiVR0UpqJaeqxjyznkPTxmACLcB/s1600/play-hover.png');
+  background:url('http://1.bp.blogspot.com/-LYE8PzwB8y8/WE85rNoADsI/AAAAAAAAANM/1cXrjOtYCZEiVR0UpqJaeqxjyznkPTxmACLcB/s1600/play-hover.png')rgba(0,0,0,0.3);
   z-index: 200;
   display: none;
 }
