@@ -303,8 +303,8 @@ input[type=&quot;checkbox&quot;], input[type=&quot;radio&quot;], input[type=&quo
 .post-footer, .post-inf{font-size: 13px;color:#dfe6f5;font-family:&#39;Yantramanav&#39;, sans-serif;}
 .post-footer a{color:#dfe6f5;}
 .post-footer a:hover{text-decoration:underline;}
-.sukafb-reichan {height: 21px;padding: 4px;overflow: hidden;font-family: &#39;Yantramanav&#39;, sans-serif;background:rgba(0,0,0,0.6);border-bottom: 1px solid #FFF;}
-.sukaafb-reichan {height: 21px;padding: 4px;overflow: hidden;background:rgba(0,0,0,0.6);border-bottom: 2px solid #FFF;background:#dfe6f5;}
+.sadameku-post {height: 21px;padding: 4px;overflow: hidden;font-family: &#39;Yantramanav&#39;, sans-serif;background:rgba(0,0,0,0.6);border-bottom: 1px solid #FFF;}
+.sadameku-fb {height: 21px;padding: 4px;overflow: hidden;background:rgba(0,0,0,0.6);border-bottom: 2px solid #FFF;background:#dfe6f5;}
 .details {width: 385px;position: relative;float: left;font-family: Helvetica,Arial,sans-serif;margin-top: 3px;}
 .kategori {color: #dfe6f5;line-height: 14px;font-size: 11px;float: left;margin: 5px;}
 .kategori a{color:#dfe6f5;}
