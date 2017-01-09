@@ -366,7 +366,7 @@ width: 160px;
 text-align: center;
 font-size: 10px;
 margin: 0px 0px;
-margin-bottom: 0px;
+margin-bottom: 20px;
 }
 .anipost .title {
   font-weight: bold;
@@ -477,6 +477,7 @@ color: #30A1E7;
 font-family: sans-serif;
 display: block;
 width: 154px;
+margin-top:-10px;
 }
 
 </style>
